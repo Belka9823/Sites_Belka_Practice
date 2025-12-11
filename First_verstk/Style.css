@@ -1,0 +1,162 @@
+@media (min-width: 1440px)
+{
+    body
+    {
+        width: 1440px;
+        margin: 0;
+    }
+    .shapka
+    {
+        display: flex;
+        background-color: rgb(29,47,48);
+        height: 60px;
+    }
+    .BF
+    {
+        width: 65px;
+        height: 20px;
+        margin-left: 165px;
+        margin-top: 20px;
+    }
+    .navT
+    {
+        display: flex;
+        justify-content: space-evenly;
+        width: 533.83px;
+        height: 24px;
+        margin-top: 18px;
+        margin-left: 125px;
+        color: white;
+    }
+    .Lupa
+    {
+        width: 32px;
+        height: 38px;
+        margin-left: 270.17px;
+        margin-top: 11px;
+    }
+    .Vihod
+    {
+        width: 27px;
+        height: 32px;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .Fon
+    {
+        height: 490px;
+        width: 1440px;
+        position: absolute;
+    }
+    .Zag
+    {
+        height: 125px;
+        width: 688px;
+        position: absolute;
+        color: white;
+        margin-left: 166px;
+        margin-top: 112px;
+        font-size: 60px;
+    }
+    .Zag2
+    {
+        position: absolute;
+        font-size: 16px;
+        width: 635px;
+        height: 72px;
+        color: white;
+        margin-left: 164.14px;
+        margin-top: 259.06px;
+    }
+    .Strel
+    {
+        position: absolute;
+        margin-left: 165px;
+        margin-top: 353px;
+    }
+    main
+    {
+        background-color: rgb(29,47,48);
+    }
+}
+@media (max-width: 405px)
+{
+body
+{
+margin: 0;
+width:404;
+
+}
+header
+{
+    background-color: rgb(29,47,48);
+    height: 404px;
+    width: 320px;
+}
+.Zag2
+{
+    display: none;
+
+}
+.shapka
+{
+    width: 404px;
+    height: 99px;
+    display: flex;
+    background-color: rgb(29,47,48);
+}
+.BF
+{
+    height: 20px;
+    width: 65.58px;
+    margin-top: 20px;
+    margin-left: 32.29px;
+}
+.Lupa
+{
+    width: 24.21px;
+    height: 24px;
+    margin-left: 160px;
+    margin-top: 18px;
+}
+.Vihod
+{
+    width: 24.21px;
+    height: 24px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.navT
+{
+    display: flex;
+    position: absolute;
+    justify-content: space-evenly;
+    margin-top: 75px;
+    color: white;
+    width: 420px;
+}
+.Fon
+{
+
+    position: absolute;
+    height: 320px;
+}
+h1
+{
+    color: white;
+    position: absolute;
+    margin-left: 32px;
+}
+.shapka2
+{
+    position: absolute;
+}
+.Strel
+{
+position: absolute;
+    margin-top: 250px;
+    margin-left: 32px;
+}
+
+}
+
